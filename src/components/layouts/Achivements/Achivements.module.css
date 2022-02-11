@@ -392,6 +392,9 @@
     .achivements__container{
         margin-top: 0;
     }
+    .achivements__imgs{
+        max-height: 25rem;
+    }
     .site__desc{
         width: 97%;
     }
